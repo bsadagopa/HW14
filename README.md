@@ -16,6 +16,13 @@ Data file in json format.<br>
 Modifications were made to get the table syndergize with the background image.<br>
 ### static/css/table.css<br>
 ## Images files :<br>
-No changes were made.
+Application running screenshots are captured in
+HW14-ScreenShot-1.png
+HW14-ScreenShot-2.png
+HW14-ScreenShot-3.png
+
+![alt text](https://github.com/bsadagopa/HW14/blob/master/HW14-ScreenShot-2.png)
+
+No changes were made to images in the images folder.
 ### images/nasa.jpg<br>
 ### images/ufo.svg<br>
